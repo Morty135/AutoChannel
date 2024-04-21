@@ -1,0 +1,6 @@
+moviepy==1.0.3
+praw==7.7.1
+python-dotenv==1.0.1
+RedDownloader==4.3.0
+RedDownloader==4.3.0
+Requests==2.31.0
